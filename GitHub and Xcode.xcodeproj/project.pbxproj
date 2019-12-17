@@ -14,6 +14,7 @@
 		5681C4D223A9425B00E0A2FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5681C4D123A9425B00E0A2FA /* Assets.xcassets */; };
 		5681C4D523A9425B00E0A2FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5681C4D323A9425B00E0A2FA /* LaunchScreen.storyboard */; };
 		8916B95C23A946CB007019CF /* Secondary.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8916B95B23A946CB007019CF /* Secondary.storyboard */; };
+		8916B95E23A949DF007019CF /* Tertiary.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8916B95D23A949DF007019CF /* Tertiary.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5681C4D423A9425B00E0A2FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5681C4D623A9425B00E0A2FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8916B95B23A946CB007019CF /* Secondary.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Secondary.storyboard; sourceTree = "<group>"; };
+		8916B95D23A949DF007019CF /* Tertiary.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Tertiary.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				5681C4D123A9425B00E0A2FA /* Assets.xcassets */,
 				5681C4D323A9425B00E0A2FA /* LaunchScreen.storyboard */,
 				5681C4D623A9425B00E0A2FA /* Info.plist */,
+				8916B95D23A949DF007019CF /* Tertiary.storyboard */,
 			);
 			path = "GitHub and Xcode";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8916B95E23A949DF007019CF /* Tertiary.storyboard in Resources */,
 				5681C4D523A9425B00E0A2FA /* LaunchScreen.storyboard in Resources */,
 				5681C4D223A9425B00E0A2FA /* Assets.xcassets in Resources */,
 				5681C4D023A9425300E0A2FA /* Main.storyboard in Resources */,
