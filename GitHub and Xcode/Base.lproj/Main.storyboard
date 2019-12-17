@@ -57,7 +57,7 @@
         <!--Tertiary-->
         <scene sceneID="SSK-IA-AtI">
             <objects>
-                <viewControllerPlaceholder referencedIdentifier="Tertiary" id="Zyp-e3-L3M" sceneMemberID="viewController"/>
+                <viewControllerPlaceholder storyboardName="Tertiary" referencedIdentifier="Tertiary" id="Zyp-e3-L3M" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="EPp-mL-P63" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="926" y="318"/>
