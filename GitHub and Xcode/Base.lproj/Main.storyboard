@@ -52,7 +52,7 @@
                 <viewControllerPlaceholder storyboardIdentifier="Secondary" storyboardName="Secondary" id="rwv-68-Gu0" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1xx-np-DAk" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="925" y="82"/>
+            <point key="canvasLocation" x="369" y="-202"/>
         </scene>
         <!--Tertiary-->
         <scene sceneID="SSK-IA-AtI">
@@ -60,7 +60,7 @@
                 <viewControllerPlaceholder storyboardName="Tertiary" referencedIdentifier="Tertiary" id="Zyp-e3-L3M" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="EPp-mL-P63" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="926" y="318"/>
+            <point key="canvasLocation" x="138" y="-202"/>
         </scene>
     </scenes>
 </document>
